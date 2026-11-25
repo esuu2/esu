@@ -1,0 +1,194 @@
+{
+  "name": "Nightshade test H",
+  "description": "No text/border/other colors",
+  "version": "1",
+  "authors": [
+    {
+      "name": "esu",
+      "id": "909049459911036968"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#000000"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#000000"
+    ],
+    "HOME_BACKGROUND": [
+      "#000000"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#000000"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#000000"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#000000"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#000000"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#000000"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#000000"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#000000"
+    ],
+    "EMBED_BACKGROUND": [
+      "#000000"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#000000"
+    ],
+    "PANEL_BG": [
+      "#000000"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#000000"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#000000"
+    ],
+    "BG_BACKDROP": [
+      "#000000b2"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#7f007b"
+    ]
+  },
+  "rawColors": {
+    "BRAND_200": "#1E202D",
+    "BRAND_260": "#1E202D",
+    "BRAND_300": "#1E202D",
+    "BRAND_330": "#1E202D",
+    "BRAND_345": "#1E202D",
+    "BRAND_360": "#1E202D",
+    "BRAND_400": "#1E202D",
+    "BRAND_430": "#1E202D",
+    "BRAND_460": "#1E202D",
+    "BRAND_500": "#1E202D",
+    "BRAND_530": "#1E202D",
+    "BRAND_600": "#1E202D",
+    "BRAND_630": "#1E202D",
+    "BRAND_660": "#1E202D",
+    "BRAND_700": "#1E202D",
+    "PLUM_3": "#6A70E8",
+    "PLUM_15": "#1E202D",
+    "PRIMARY_300": "#1E202D",
+    "PRIMARY_360": "#1E202D",
+    "PRIMARY_500": "#1E202D",
+    "PRIMARY_530": "#1E202D",
+    "BRAND_560": "#1E202D",
+    "PRIMARY_400": "#1E202D",
+    "PLUM_9": "#3E42C6",
+    "PLUM_10": "#3E42C6",
+    "PLUM_11": "#3E42C6",
+    "PLUM_13": "#3E42C6",
+    "PRIMARY_730": "#3E42C6",
+    "ROLE_DEFAULT": "#6A70E8",
+    "WHITE_630": "#6A70E8",
+    "PLUM_17": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_24": "#000000",
+    "PLUM_25": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "PLUM_16": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_21": "#000000",
+    "PLUM_22": "#000000",
+    "PRIMARY_460": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_660": "#000000",
+    "BRAND_730": "#3E42C6",
+    "PLUM_1": "#3E42C6",
+    "PLUM_4": "#3E42C6",
+    "PLUM_6": "#3E42C6",
+    "PRIMARY_100": "#B8BEFF",
+    "PRIMARY_200": "#B8BEFF",
+    "PRIMARY_330": "#6A70E8",
+    "PRIMARY_DARK_200": "#B8BEFF",
+    "WHITE_500": "#B8BEFF",
+    "BLACK_500": "#000000b2",
+    "PLUM_18": "#101012",
+    "PRIMARY_645": "#101012",
+    "PRIMARY_800": "#101012",
+    "GREEN_500": "#43b581",
+    "RED_500": "#7f007b",
+    "ORANGE_500": "#faa61a",
+    "YELLOW_500": "#faa61a"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": false,
+    "iconpack": "rosiecord-plumpy"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/esuu2/esu/main/themes/nightshade-bg-v3.gif",
+    "alpha": 1,
+    "size": "cover",
+    "position": "center"
+  }
+}
