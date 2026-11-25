@@ -81,9 +81,6 @@
     "BACKGROUND_SECONDARY_ALT": [
       "#000000"
     ],
-    "BACKGROUND_SURFACE_RAISED": [
-      "#000000"
-    ],
     "BACKGROUND_TERTIARY": [
       "#000000"
     ],
@@ -97,9 +94,6 @@
       "#000000"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#000000"
-    ],
-    "BG_SURFACE_RAISED": [
       "#000000"
     ],
     "CARD_PRIMARY_BG": [
@@ -230,9 +224,6 @@
     ],
     "TEXT_SECONDARY": [
       "#d79dff"
-    ],
-    "KEYBOARD": [
-      "#00000000"
     ]
   },
   "rawColors": {
@@ -309,7 +300,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://raw.githubusercontent.com/esuu2/esu/main/themes/nightshade-bg-v2.gif",
+    "url": "https://raw.githubusercontent.com/esuu2/esu/main/themes/nightshade-bg-v3.gif",
     "alpha": 1,
     "size": "cover",
     "position": "center"
