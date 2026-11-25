@@ -1,5 +1,5 @@
 {
-  "name": "echobots.gg",
+  "name": "Echo",
   "description": "Blue on pitch black, with a purple accent.",
   "version": "1",
   "authors": [
@@ -82,7 +82,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://raw.githubusercontent.com/esuu2/esu/main/themes/nightshade-bg-v3.gif",
+    "url": "https://raw.githubusercontent.com/esuu2/esu/main/themes/echo-bg.gif",
     "alpha": 1,
     "size": "cover",
     "position": "center"
