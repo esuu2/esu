@@ -295,7 +295,7 @@
   },
   "plus": {
     "version": 0,
-    "customOverlays": true,
+    "customOverlays": false,
     "iconpack": "rosiecord-plumpy"
   },
   "spec": 2,
