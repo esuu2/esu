@@ -230,6 +230,9 @@
     ],
     "TEXT_SECONDARY": [
       "#d79dff"
+    ],
+    "KEYBOARD": [
+      "#00000000"
     ]
   },
   "rawColors": {
@@ -306,9 +309,9 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://raw.githubusercontent.com/esuu2/esu/main/themes/nightshade-bg.gif",
-    "alpha": 0.9,
-    "size": "contain",
+    "url": "https://raw.githubusercontent.com/esuu2/esu/main/themes/nightshade-bg-v2.gif",
+    "alpha": 1,
+    "size": "cover",
     "position": "center"
   }
 }
