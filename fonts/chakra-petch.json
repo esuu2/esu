@@ -1,6 +1,6 @@
 {
   "spec": 1,
-  "name": "Chakra Petch",
+  "name": "Echo Font",
   "description": "Angular techy font to match the echobots.gg theme",
   "main": {
     "ggsans-Normal": "https://raw.githubusercontent.com/esuu2/esu/main/fonts/chakra-petch/ChakraPetch-Regular.ttf",

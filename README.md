@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/esuu2/esu/main/themes/echo.json
 
 Custom icons need the Themes+ plugin.
 
-## Font: Chakra Petch
+## Echo Font (Chakra Petch)
 Angular font that matches the theme. **Install:** Discord → Settings → Fonts → **+** → paste:
 
 ```
