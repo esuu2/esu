@@ -11,6 +11,15 @@ https://raw.githubusercontent.com/esuu2/esu/main/themes/echo.json
 
 Custom icons need the Themes+ plugin.
 
+## echobots.gg Purple
+Same theme in purple, with the purple ECHO shield in the background.
+
+**Install:** Discord → Settings → Themes → **+** → paste:
+
+```
+https://raw.githubusercontent.com/esuu2/esu/main/themes/echo-purple.json
+```
+
 ## Echo Font (Chakra Petch)
 Angular font that matches the theme. **Install:** Discord → Settings → Fonts → **+** → paste:
 
