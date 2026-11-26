@@ -20,6 +20,15 @@ Same theme in purple, with the purple ECHO shield in the background.
 https://raw.githubusercontent.com/esuu2/esu/main/themes/echo-purple.json
 ```
 
+## echobots.gg ESU
+The purple theme with the glowing ESU banner in the background.
+
+**Install:** Discord → Settings → Themes → **+** → paste:
+
+```
+https://raw.githubusercontent.com/esuu2/esu/main/themes/echo-esu.json
+```
+
 ## Echo Font (Chakra Petch)
 Angular font that matches the theme. **Install:** Discord → Settings → Fonts → **+** → paste:
 
