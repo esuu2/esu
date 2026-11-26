@@ -67,13 +67,14 @@
     "PRIMARY_DARK_200": "#D5B8FF",
     "WHITE_500": "#D5B8FF",
     "BLACK_500": "#000000b2",
-    "PLUM_18": "#101012",
-    "PRIMARY_645": "#101012",
-    "PRIMARY_800": "#101012",
+    "PLUM_18": "#201230",
+    "PRIMARY_645": "#201230",
+    "PRIMARY_800": "#201230",
     "GREEN_500": "#43b581",
     "RED_500": "#7f007b",
     "ORANGE_500": "#faa61a",
-    "YELLOW_500": "#faa61a"
+    "YELLOW_500": "#faa61a",
+    "PLUM_23": "#140A22"
   },
   "plus": {
     "version": 0,
